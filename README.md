@@ -17,3 +17,8 @@
     1. naranjas
     
 ![logo](/logo.jpg)
+
+frutas | verduras
+-------|-------
+manzana|pepino
+platano|tomate
