@@ -1,8 +1,9 @@
-# pruebamarkdown<h1>
+# pruebamarkdown h1
 ## prueba de texto en h2
 ###### prueba de texto en h6 
  
  *prueba de texto en cursiva*
+ 
  **prueba de texto en negrita**
  
 **lista desordenada**
